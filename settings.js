@@ -1,12 +1,12 @@
 const fs = require("node:fs");
 
 const config = {
-  owner: ["6282114275683", "6281910094713"],
-  name: "- NekoBot - Simple WhatsApp bot",
+  owner: ["6285640575421", "6285640575421"],
+  name: "- LenzyBotz - Simple WhatsApp bot",
   sessions: "sessions",
   sticker: {
     packname: "Made by ",
-    author: "nekoBot",
+    author: "LenzyBotz",
   },
   id: {
     newsletter: "120363388655497053@newsletter", //Ganti pakai id Channel mu
